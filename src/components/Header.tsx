@@ -107,7 +107,7 @@ export const Header: React.FC<HeaderProps> = ({
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-lg font-bold tracking-tight text-white flex items-center gap-1.5">
-                NAUTICAL <span className="text-sky-400 font-extrabold">AI</span>
+                Cargo <span className="text-sky-400 font-extrabold">NAUTICS</span>
               </h1>
               <span className="bg-sky-950 text-sky-300 border border-sky-800/80 text-[10px] font-semibold px-2 py-0.5 rounded-full uppercase tracking-wider">
                 IFFM v1.0 • IEEE 29148
